@@ -29,3 +29,5 @@ git commit
 git push
 ```
 
+This site was build using [GitHub Pages](https://pages.github.com)
+
