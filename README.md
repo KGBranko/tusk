@@ -12,6 +12,9 @@
 ###### h6
 
 **This text is bold**
+
 *This text is italic*
+
 ~~This text is striked~~
+
 ***Important I guess...***
