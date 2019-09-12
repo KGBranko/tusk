@@ -2,7 +2,7 @@
 ## Heading 2
 ###### Smallest heading
 
-[Links](
+[Links](#links)
 
 ### Try
 
