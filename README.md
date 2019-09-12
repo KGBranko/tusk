@@ -21,3 +21,11 @@
 
 As Einstein sead:
 > Lets order some burgers!
+
+Some basic Git commands are:
+```
+git pull
+git commit
+git push
+```
+
