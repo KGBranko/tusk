@@ -34,3 +34,4 @@ git push
 ### Links
 This site was build using [GitHub Pages](https://pages.github.com)
 
+Here is a [link](/others/contributors.html) to the contributors.
