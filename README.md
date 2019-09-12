@@ -35,3 +35,16 @@ git push
 This site was build using [GitHub Pages](https://pages.github.com)
 
 Here is a [link](/others/contributors.html) to the contributors.
+
+##### List
+- Kostunica
+- Tictad
+- Mladja
+
+1. Spain
+2. Argentina
+3. France
+
+1. First list item
+    - Nested list item
+    - Another one, nested
