@@ -62,3 +62,13 @@ some text
 Hey @KGBranko [@KGBranko] what do you think bout this? <= Not working
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+This is a regular paragraph.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+This is another regular paragraph.
