@@ -54,8 +54,8 @@ some text
     - Second
         - Third
 
-[x] Eggs
-[x] Watter
-[ ] Money
-[ ] Time
+- [x] Eggs
+- [x] Watter
+- [ ] Money
+- [ ] Time
 
