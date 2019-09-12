@@ -52,4 +52,4 @@ some text
     - Another one, nested
 1. First
     - Second
-        Third
+        - Third
