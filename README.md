@@ -18,3 +18,6 @@
 ~~This text is striked~~
 
 ***Important I guess...***
+
+As Einstein sead:
+> Lets order some burgers!
