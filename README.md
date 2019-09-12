@@ -59,4 +59,4 @@ some text
 - [ ] Money
 - [ ] Time
 
-Hey @KGBranko what do you think bout this?
+Hey @KGBranko [@KGBranko] what do you think bout this?
