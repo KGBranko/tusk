@@ -59,4 +59,6 @@ some text
 - [ ] Money
 - [ ] Time
 
-Hey @KGBranko [@KGBranko] what do you think bout this?
+Hey @KGBranko [@KGBranko] what do you think bout this? <= Not working
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
