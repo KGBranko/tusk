@@ -10,3 +10,8 @@
 #### h4
 ##### h5
 ###### h6
+
+**This text is bold**
+*This text is italic*
+~~This text is striked~~
+***Important I guess...***
